@@ -24,7 +24,7 @@ def o():
     print("  \033[1;91m[\033[1;92mE\033[1;91m]\033[1;92mExit")
     Mahin = input('  \033[1;91m[\033[1;92m●\033[1;91m]\033[1;92mSELECT MENU \033[38;5;196m: ')
     if Mahin == '1':
-        i()
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100094466995061')
     if Mahin == '3':
         os.system('xdg-open https://youtube.com/@DarkFixNet67')
     if Mahin == '2':
@@ -131,8 +131,8 @@ logo=("""
    
         \033[1;91m Welcome To My Dark FixNeT 67 Team \033[1;92m     
     
-        \033[1;94mFIND YOUR OWN PATH
-    FUck Your Attitude.........Hacked...Facebook...Account...   \033[1;92m                                    
+        \033[1;97mFIND YOUR OWN PATH
+    FUck Your Attitude.........Hacked...Facebook...Account...   \033[1;35m                                    
 ══════════════════════════════════════════════════════           
  [●] 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: Https.Xisan67.net
  [●] 𝐆𝐫𝐨𝐮𝐩:  DARK FIXNET 67 TEAM
