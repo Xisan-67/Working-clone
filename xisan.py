@@ -18,16 +18,18 @@ def o():
   #   print("     \033[38;5;46m-\033[38;5;196m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[1;32m-\033[1;35m-\033[1;34m-\033[1;97m-\033[1;33m-\033[38;5;196m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[38;5;196m-\033[1;32m-\033[1;97m-\033[1;35m-\033[1;34m-\033[1;33m-\033[38;5;46m-\033[1;97m-\033[1;32m-\033[1;33m-\033[38;5;196m-")
     jalan("  \033[1;91m[\033[1;92m1\033[1;91m]\033[1;92mSTART OLD ID RANDOM CLONING")
     # print("  \033[1;91m[\033[1;92m02\033[1;91m]\033[1;92mCONTACT ADMIN")
-    print("  \033[1;91m[\033[1;92m2\033[1;91m]\033[1;92mCONTACT MY TeLEGRAM CHANNELLs")
+    print("  \033[1;91m[\033[1;92m2\033[1;91m]\033[1;92mCONTACT MY PaGe")
   # print("  \033[1;91m[\033[1;91m02\033[1;93m]\033[1;92mView Hacking Tool")
     print("  \033[1;91m[\033[1;92m3\033[1;91m]\033[1;92mVIEW YOUTUBE CHANNEL ")
     print("  \033[1;91m[\033[1;92mE\033[1;91m]\033[1;92mExit")
     Mahin = input('  \033[1;91m[\033[1;92m●\033[1;91m]\033[1;92mSELECT MENU \033[38;5;196m: ')
     if Mahin == '1':
+    	i()
+    if Mahin == '2':
         os.system('xdg-open https://www.facebook.com/profile.php?id=100094466995061')
     if Mahin == '3':
         os.system('xdg-open https://youtube.com/@DarkFixNet67')
-    if Mahin == '2':
+    if Mahin == 'X':
         os.system('xdg-open t.me/darkfixnet67')
     if Mahin == 'X':
         os.system('exit')
@@ -131,7 +133,7 @@ logo=("""
    
         \033[1;91m Welcome To My Dark FixNeT 67 Team \033[1;92m     
     
-        \033[1;97mFIND YOUR OWN PATH
+        \033[1;32mFIND YOUR OWN PATH
     FUck Your Attitude.........Hacked...Facebook...Account...   \033[1;35m                                    
 ══════════════════════════════════════════════════════           
  [●] 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: Https.Xisan67.net
