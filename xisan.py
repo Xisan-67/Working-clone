@@ -16,9 +16,9 @@ def o():
   #  ip = requests.get("https://api.ipify.org").text
   #  jalan("     \033[97;1m[\033[92;1m+\033[97;1m] \033[97;1mIP ADDRES \033[38;5;196m: \033[1;32m"+ip)
   #   print("     \033[38;5;46m-\033[38;5;196m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[1;32m-\033[1;35m-\033[1;34m-\033[1;97m-\033[1;33m-\033[38;5;196m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[38;5;196m-\033[1;32m-\033[1;97m-\033[1;35m-\033[1;34m-\033[1;33m-\033[38;5;46m-\033[1;97m-\033[1;32m-\033[1;33m-\033[38;5;196m-")
-    jalan("  \033[1;91m[\033[1;92m1\033[1;91m]\033[1;92mSTART OLD ID RANDOM CLONING   ")
+    jalan("  \033[1;91m[\033[1;92m1\033[1;91m]\033[1;92mSTART OLD ID RANDOM CLONING")
     # print("  \033[1;91m[\033[1;92m02\033[1;91m]\033[1;92mCONTACT ADMIN")
-    print("  \033[1;91m[\033[1;92m2\033[1;91m]\033[1;92mJOIN MY GROUP ")
+    print("  \033[1;91m[\033[1;92m2\033[1;91m]\033[1;92mCONTACT MY TeLEGRAM CHANNELLs")
   # print("  \033[1;91m[\033[1;91m02\033[1;93m]\033[1;92mView Hacking Tool")
     print("  \033[1;91m[\033[1;92m3\033[1;91m]\033[1;92mVIEW YOUTUBE CHANNEL ")
     print("  \033[1;91m[\033[1;92mE\033[1;91m]\033[1;92mExit")
@@ -28,7 +28,7 @@ def o():
     if Mahin == '3':
         os.system('xdg-open https://youtube.com/@DarkFixNet67')
     if Mahin == '2':
-        os.system('xdg-open https://www.facebook.com/Https.Xisan67.net')
+        os.system('xdg-open t.me/darkfixnet67')
     if Mahin == 'X':
         os.system('exit')
         return None
