@@ -120,24 +120,24 @@ logo=("""
 \033[1;93m██╔╝ ██╗██║███████║██║  ██║██║ ╚████║
 \033[1;93m╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 
-                                                                                                                ***════════\033[1;94mDark_FixNeT_67_\033[1;91m════════ *** \033[1;93m
+                                                                                                                ***════════\033[1;91mDark_FixNeT_67_\033[1;91m════════ *** \033[1;93m
                                                                                                      *Update*════════════*Version*
                                                                                                     ***═════════1.0.2════════***
                                                 
                                           
-  [ JOIN MY FACEBOOK GROUP AND MORE NEW COMMAND ]
+  🇧🇩[ JOIN MY FACEBOOK GROUP AND MORE NEW COMMAND ]🇧🇩
    
-          Welcome To My Dark FixNeT 67 Team##!!\033[1;36m     
+          Welcome To My Dark FixNeT 67 Team##!!\033[1;91m     
     
-          FIND YOUR OWN PATH
+        \033[1;93mFIND YOUR OWN PATH
     FUck Your Attitude😏😎                                         
 ══════════════════════════════════════════════════════           
- [😡] 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: Https.Xisan67.net
- [😡] 𝐆𝐫𝐨𝐮𝐩:  DARK FIXNET 67 TEAM
- [😡] 𝐆𝐈𝐓𝐇𝐔𝐁   :  Xisan-67
- [😡] 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏: +880175725****
- [😡] Xisan : ════════Version ════════ 1.0.2
- [😡]𝐓𝐎𝐎𝐋𝐒           :  BD-PK- India Random 
+ [⭕] 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: Https.Xisan67.net
+ [⭕] 𝐆𝐫𝐨𝐮𝐩:  DARK FIXNET 67 TEAM
+ [⭕] 𝐆𝐈𝐓𝐇𝐔𝐁   :  Xisan-67
+ [⭕] 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏: +880175725****
+ [⭕] Xisan :  ════ Version ════════ 1.0.2
+ [⭕] 𝐓𝐎𝐎𝐋𝐒           :  BD-PK- India Random 
 ══════════════════════════════════════════════════════                   
 """)
 try:
