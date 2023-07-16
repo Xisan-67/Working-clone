@@ -120,17 +120,17 @@ logo=("""
 \033[1;93m██╔╝ ██╗██║███████║██║  ██║██║ ╚████║
 \033[1;93m╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 
-                                                                                                                ***════════\033[1;91mDark_FixNeT_67_\033[1;91m════════ *** \033[1;93m
+                                                                                                          ***════════\033[1;91mDark_FixNeT_67_════════ *** \033[1;93m
                                                                                                      *Update*════════════*Version*
                                                                                                     ***═════════1.0.2════════***
                                                 
                                           
-  🇧🇩[ JOIN MY FACEBOOK GROUP AND MORE NEW COMMAND ]🇧🇩
+  🇧🇩 [ JOIN MY FACEBOOK GROUP AND MORE NEW COMMAND ] 🇧🇩
    
-          Welcome To My Dark FixNeT 67 Team##!!\033[1;91m     
+        \033[1;91m Welcome To My Dark FixNeT 67 Team##!!\033[1;93m     
     
         \033[1;93mFIND YOUR OWN PATH
-    FUck Your Attitude😏😎                                         
+   🪰 FUck Your Attitude.........Hacked...Facebook...Account...🪰   \033[1;91m                                    
 ══════════════════════════════════════════════════════           
  [⭕] 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: Https.Xisan67.net
  [⭕] 𝐆𝐫𝐨𝐮𝐩:  DARK FIXNET 67 TEAM
@@ -139,7 +139,7 @@ logo=("""
  [⭕] Xisan :  ════ Version ════════ 1.0.2
  [⭕] 𝐓𝐎𝐎𝐋𝐒           :  BD-PK- India Random 
 ══════════════════════════════════════════════════════                   
-""")
+""") 
 try:
     print("\033[38;5;46m\nTOOL UPDATE SUCCESSFUL\n")
     time.sleep(2)
