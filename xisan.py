@@ -120,17 +120,17 @@ logo=("""
 \033[1;93m██╔╝ ██╗██║███████║██║  ██║██║ ╚████║
 \033[1;93m╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 
-                                                                                                          ***════════\033[1;91mDark_FixNeT_67_════════ *** \033[1;93m
+                                                                                                          ***════════\033[1;91m Dark_FixNeT_67_════════ *** \033[1;93m
                                                                                                      *Update*════════════*Version*
                                                                                                     ***═════════1.0.2════════***
                                                 
                                           
-  🇧🇩 [ JOIN MY FACEBOOK GROUP AND MORE NEW COMMAND ] 🇧🇩
+  🇧[ JOIN MY FACEBOOK GROUP AND MORE NEW COMMAND ] 🇩
    
-        \033[1;91m Welcome To My Dark FixNeT 67 Team##!!\033[1;93m     
+        \033[1;91m Welcome To My Dark FixNeT 67 Team##!!\033[1;92m     
     
-        \033[1;93mFIND YOUR OWN PATH
-   🪰 FUck Your Attitude.........Hacked...Facebook...Account...🪰   \033[1;91m                                    
+        \033[1;94mFIND YOUR OWN PATH
+    FUck Your Attitude.........Hacked...Facebook...Account...   \033[1;91m                                    
 ══════════════════════════════════════════════════════           
  [⭕] 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: Https.Xisan67.net
  [⭕] 𝐆𝐫𝐨𝐮𝐩:  DARK FIXNET 67 TEAM
