@@ -4,7 +4,8 @@
 
 
 
-' pkg install git
+
+` pkg install git
 
 git clone https://github.com/Xisan-67/Working-clone
 
@@ -12,13 +13,21 @@ ls
 
 cd Working-clone
 
-python xisan.py '
+python xisan.py `
 
 
 
-injoy brothers... 🥰
 
-#darkfixnet67_team.
 
-#xisan_HaXor_Tools.
+
+
+
+
+++++++++++++++++++++++++++++++++
+injoy brothers... 🥰..........++
+
+#darkfixnet67_team............++
+
+#xisan_HaXor_Tools............++
+++++++++++++++++++++++++++++++++
 
