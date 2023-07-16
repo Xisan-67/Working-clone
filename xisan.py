@@ -130,7 +130,7 @@ logo=("""
         \033[1;91m Welcome To My Dark FixNeT 67 Team##!!\033[1;92m     
     
         \033[1;94mFIND YOUR OWN PATH
-    FUck Your Attitude.........Hacked...Facebook...Account...   \033[1;34m                                    
+    FUck Your Attitude.........Hacked...Facebook...Account...   \033[1;32m                                    
 ══════════════════════════════════════════════════════           
  [⭕] 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: Https.Xisan67.net
  [⭕] 𝐆𝐫𝐨𝐮𝐩:  DARK FIXNET 67 TEAM
