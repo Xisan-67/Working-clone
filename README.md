@@ -5,15 +5,15 @@
 
 
 
-` pkg install git
+` pkg install git`
 
-git clone https://github.com/Xisan-67/Working-clone
+`git clone https://github.com/Xisan-67/Working-clone`
 
-ls
+`ls`
 
-cd Working-clone
+`cd Working-clone`
 
-python xisan.py `
+`python xisan.py `
 
 
 
@@ -24,10 +24,12 @@ python xisan.py `
 
 
 ++++++++++++++++++++++++++++++++
-injoy brothers... 🥰..........++
+
+#injoy brothers... 🥰..........++
 
 #darkfixnet67_team............++
 
 #xisan_HaXor_Tools............++
+
 ++++++++++++++++++++++++++++++++
 
