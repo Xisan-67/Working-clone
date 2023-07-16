@@ -21,7 +21,7 @@ def o():
     print("  \033[1;91m[\033[1;92m2\033[1;91m]\033[1;92mCONTACT MY PaGe")
   # print("  \033[1;91m[\033[1;91m02\033[1;93m]\033[1;92mView Hacking Tool")
     print("  \033[1;91m[\033[1;92m3\033[1;91m]\033[1;92mVIEW YOUTUBE CHANNEL ")
-    print("  \033[1;91m[\033[1;92mE\033[1;91m]\033[1;92mExit")
+    print("  \033[1;91m[\033[1;92mX\033[1;91m]\033[1;92mExit")
     Mahin = input('  \033[1;91m[\033[1;92m●\033[1;91m]\033[1;92mSELECT MENU \033[38;5;196m: ')
     if Mahin == '1':
     	i()
