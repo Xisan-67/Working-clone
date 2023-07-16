@@ -19,6 +19,7 @@ def o():
     jalan("  \033[1;91m[\033[1;92m01\033[1;91m]\033[1;92mSTART OLD ID RANDOM CLONING   ")
     # print("  \033[1;91m[\033[1;92m02\033[1;91m]\033[1;92mCONTACT ADMIN")
     print("  \033[1;91m[\033[1;92m02\033[1;91m]\033[1;92mJOIN MY GROUP ")
+  # print("  \033[1;91m[\033[1;91m02\033[1;93m]\033[1;92mView Hacking Tool")
     print("  \033[1;91m[\033[1;92m02\033[1;91m]\033[1;92mVIEW YOUTUBE CHANNEL ")
     print("  \033[1;91m[\033[1;92mE\033[1;91m]\033[1;92mExit")
     Mahin = input('  \033[1;91m[\033[1;92m●\033[1;91m]\033[1;92mSELECT MENU \033[38;5;196m: ')
@@ -28,7 +29,7 @@ def o():
         os.system('xdg-open https://youtube.com/@DarkFixNet67')
     if Mahin == '2':
         os.system('xdg-open https://www.facebook.com/Https.Xisan67.net')
-    if Mahin == 'E':
+    if Mahin == 'X':
         os.system('exit')
         return None
 import os,sys,time,json,random,re,string,platform,base64,uuid
@@ -133,13 +134,13 @@ logo=("""
         \033[1;94mFIND YOUR OWN PATH
     FUck Your Attitude.........Hacked...Facebook...Account...   \033[1;32m                                    
 ══════════════════════════════════════════════════════           
- [🟡] 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: Https.Xisan67.net
- [🟡] 𝐆𝐫𝐨𝐮𝐩:  DARK FIXNET 67 TEAM
- [🟡] 𝐆𝐈𝐓𝐇𝐔𝐁   :  Xisan-67
- [🟡] 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏: +880175725****
- [🟡] YouTube  :  Dark FixNeT 67
- [🟡] XISAN :  ════ Version ════════ 1.0.2
- [🟡] 𝐓𝐎𝐎𝐋𝐒           : Old ID 6/7/8/9/10/11/12 Random 
+ [●] 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: Https.Xisan67.net
+ [●] 𝐆𝐫𝐨𝐮𝐩:  DARK FIXNET 67 TEAM
+ [●] 𝐆𝐈𝐓𝐇𝐔𝐁   :  Xisan-67
+ [●] 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏: +880175725****
+ [●] YouTube  :  Dark FixNeT 67
+ [●] XISAN :  ════ Version ════════ 1.0.2
+ [●] 𝐓𝐎𝐎𝐋𝐒           : Old ID 6/7/8/9/10/11/12 Random 
 ══════════════════════════════════════════════════════                   
 """) 
 try:
